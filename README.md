@@ -1,2 +1,2 @@
-# EDA-Project-of-Diwali-Sales-Data
-Diwali-Sales-Data Created by using Python and Python Libraries
+Diwali-Sales-Data-Analysis-Python
+Exploratory Data Analysis of Diwali sales data using Python, Pandas, NumPy, Matplotlib and Seaborn to identify customer, product and sales trends.
